@@ -49,7 +49,7 @@ violation_detection/
 └── README.md                             # This documentation file
 ```
 
-> **Note:** The fully trained models (e.g., `best.pt`) and the full large-scale dataset have been excluded from this repository to keep the remote size small. Please place your `.pt` weights into the corresponding placeholder folders before running.
+> **Note:** The fully trained models (e.g., `best.pt`) and the full large-scale dataset have been excluded from this repository to keep the remote size small. **The complete dataset will be uploaded and updated as soon as possible on Kaggle.** Please place your `.pt` weights into the corresponding placeholder folders before running.
 
 ---
 
