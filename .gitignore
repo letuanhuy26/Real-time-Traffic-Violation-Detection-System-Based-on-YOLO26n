@@ -1,0 +1,25 @@
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Ignore large model files except placeholders or base scripts
+*.pt
+!Code/yolo*.pt
+
+# Ignore large media files
+*.mp4
+*.avi
+*.mkv
+*.zip
+*.rar
+*.7z
+
+# Ignore output and tracking logs
+runs/
+output/
+logs/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
